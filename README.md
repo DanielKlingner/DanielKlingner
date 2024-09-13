@@ -7,7 +7,7 @@ Hi there, I'm Daniel Klingner 👋
 - 🤓 Constantly learning and evolving to stay at the forefront of data trends
 
 💼 Professional Journey:
-- 📊 Currently working as a Data Analyst at Volta Solar, where I turn raw data into actionable insights
+- 📊 Currently working as a Business Analyst at Axpo, where I turn raw data into actionable insights
 - 💡 Proficient in data cleaning, visualization, and statistical analysis
 - 🛠️ Skilled in using a variety of data analysis tools, including Python, SQL, and more
 - 🧩 Excited about solving complex business problems through data-driven decisions
